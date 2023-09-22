@@ -13,6 +13,26 @@ Are you ready to challenge yourself? [Dive in now!](https://mohamed-huss.github.
 - **Responsive Design:** Enjoy on any device, from mobiles to desktops.
 - **Instant Feedback:** Know immediately if you're right or wrong.
 
+## 🔧 Tech Stack 
+
+- **APIs**:
+  
+  - [OpenTDB API](https://opentdb.com/api.php?) - Integrated for trivia question retrieval.
+
+- **Frontend**: 
+  - **HTML5, CSS3, Bootstrap & JavaScript**: Core technologies for structuring, styling, and interactivity.
+  
+- **Animations**: 
+  - **Animate.css**: Leveraged for smoother and more engaging CSS animations.
+  - **CSS**: Further customized animations to enhance user experience.
+
+- **Responsive Design**: 
+  - **Media Query & Bootstrap**: Ensured seamless adaptability across various device sizes.
+
+- **UI & Design Tools**: 
+  - **Bootstrap Icon**: Integrated for consistent and scalable iconography.
+
+
 ## 💬 **Share Your Thoughts**
 
 Your experience matters. Let's make `QuizApp` better together. If you've any feedback, ideas, or suggestions, don't hesitate to reach out. Every piece of feedback is a step toward excellence.
