@@ -16,7 +16,6 @@ Are you ready to challenge yourself? [Dive in now!](https://mohamed-huss.github.
 ## 🔧 Tech Stack 
 
 - **APIs**:
-  
   - [OpenTDB API](https://opentdb.com/api.php?) - Integrated for trivia question retrieval.
 
 - **Frontend**: 
